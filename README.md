@@ -1,2 +1,2 @@
-# SnotBot
-Remote-sampling autonomous vehicles for whales or volcanoes
+# Autonomous Drones for Environmental Research
+Remote-sampling autonomous vehicles for whales, volcanoes, oceans, forest fires, oyster reefs...
